@@ -1,0 +1,5 @@
+C:\Users\Jess\Documents\Visual Studio 2012\Projects\AudioOutswitccher\AudioOutswitccher\CoreAudioApi\bin\Debug\CoreAudioApi.dll
+C:\Users\Jess\Documents\Visual Studio 2012\Projects\AudioOutswitccher\AudioOutswitccher\CoreAudioApi\bin\Debug\CoreAudioApi.pdb
+C:\Users\Jess\Documents\Visual Studio 2012\Projects\AudioOutswitccher\AudioOutswitccher\CoreAudioApi\obj\Debug\CoreAudioApi.csprojResolveAssemblyReference.cache
+C:\Users\Jess\Documents\Visual Studio 2012\Projects\AudioOutswitccher\AudioOutswitccher\CoreAudioApi\obj\Debug\CoreAudioApi.dll
+C:\Users\Jess\Documents\Visual Studio 2012\Projects\AudioOutswitccher\AudioOutswitccher\CoreAudioApi\obj\Debug\CoreAudioApi.pdb

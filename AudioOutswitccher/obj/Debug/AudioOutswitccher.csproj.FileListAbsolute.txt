@@ -1,0 +1,9 @@
+c:\users\jess\documents\visual studio 2012\Projects\AudioOutswitccher\AudioOutswitccher\bin\Debug\AudioOutswitccher.exe.config
+c:\users\jess\documents\visual studio 2012\Projects\AudioOutswitccher\AudioOutswitccher\bin\Debug\AudioOutswitccher.exe
+c:\users\jess\documents\visual studio 2012\Projects\AudioOutswitccher\AudioOutswitccher\bin\Debug\AudioOutswitccher.pdb
+c:\users\jess\documents\visual studio 2012\Projects\AudioOutswitccher\AudioOutswitccher\obj\Debug\AudioOutswitccher.csprojResolveAssemblyReference.cache
+c:\users\jess\documents\visual studio 2012\Projects\AudioOutswitccher\AudioOutswitccher\obj\Debug\AudioOutswitccher.Form1.resources
+c:\users\jess\documents\visual studio 2012\Projects\AudioOutswitccher\AudioOutswitccher\obj\Debug\AudioOutswitccher.Properties.Resources.resources
+c:\users\jess\documents\visual studio 2012\Projects\AudioOutswitccher\AudioOutswitccher\obj\Debug\AudioOutswitccher.csproj.GenerateResource.Cache
+c:\users\jess\documents\visual studio 2012\Projects\AudioOutswitccher\AudioOutswitccher\obj\Debug\AudioOutswitccher.exe
+c:\users\jess\documents\visual studio 2012\Projects\AudioOutswitccher\AudioOutswitccher\obj\Debug\AudioOutswitccher.pdb

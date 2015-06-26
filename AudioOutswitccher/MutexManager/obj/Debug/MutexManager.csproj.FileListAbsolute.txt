@@ -1,0 +1,5 @@
+C:\Users\Jess\Documents\Visual Studio 2012\Projects\AudioOutswitccher\AudioOutswitccher\MutexManager\bin\Debug\MutexManager.dll
+C:\Users\Jess\Documents\Visual Studio 2012\Projects\AudioOutswitccher\AudioOutswitccher\MutexManager\bin\Debug\MutexManager.pdb
+C:\Users\Jess\Documents\Visual Studio 2012\Projects\AudioOutswitccher\AudioOutswitccher\MutexManager\obj\Debug\MutexManager.csprojResolveAssemblyReference.cache
+C:\Users\Jess\Documents\Visual Studio 2012\Projects\AudioOutswitccher\AudioOutswitccher\MutexManager\obj\Debug\MutexManager.dll
+C:\Users\Jess\Documents\Visual Studio 2012\Projects\AudioOutswitccher\AudioOutswitccher\MutexManager\obj\Debug\MutexManager.pdb
